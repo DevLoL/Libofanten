@@ -1,0 +1,17 @@
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+Blof KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+begin	KEYWORD2
+clear	KEYWORD2
+setBlink	KEYWORD2
+setPixel	KEYWORD2
+off KEYWORD2
+on	KEYWORD2
+flush	KEYWORD2
