@@ -1,7 +1,8 @@
 /*
 	Libofanten.h - Library for using Blinkofanten LED Matrix
 	Created by jstsmthrgk
-	basically a library wrapper of blinkofant_testcode.ino by wizard23 and TomK32
+	basically a library wrapper of blinkofant_testcode.ino by parsew, wizard23, overflow and TomK32
+	https://github.com/parasew/blinkofanten
 	https://github.com/DevLoL/blinkofanten/blob/master/blinkofant_testcode/blinkofant_testcode.ino
 */
 
